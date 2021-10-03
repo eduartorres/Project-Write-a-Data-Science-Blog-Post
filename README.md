@@ -30,7 +30,7 @@ The Python version that was used for the development of this project was Python3
 - Scipy
 - Math
 
-## File descriptions
+## File descriptions - Master Branch
 - Properati_project.ipynb: This Jupyter Notebook incorporates Data Transformation, Hyperparameter Optimization, Machine Learning Models, and Visualizations. 
 
 - DS_Proyecto_01_Datos_Properati.csv: Original dataset in csv format of real estate in Latin America, specifically Argentina. 
