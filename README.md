@@ -18,7 +18,6 @@ This project focuses on answering several questions such as:
 - What are the most expensive neighborhoods in and around Buenos Aires?
 - What will be the best predictor variables for the variable of interest, i.e., the price of a property?
 
-Translated with www.DeepL.com/Translator (free version)
 ### Main libraries
 The Python version that was used for the development of this project was Python3. Here are the main libraries I used in my Jupyter Notebook:
 
