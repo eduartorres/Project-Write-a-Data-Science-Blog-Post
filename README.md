@@ -3,7 +3,7 @@ This project applies the CRISP-DM process in the Properati Data.
 
 ## Medium Blog Post
 Medium blog post link:
-- osfsfsfsfsfsf
+- https://medium.com/@felipehuman/project-real-estate-market-analysis-f0dddbb604b9
 
 ## Project Motivation
 This project ***Write a Data Science Blog Post*** is part of Udacity Data Scientists Nanodegree Program.
